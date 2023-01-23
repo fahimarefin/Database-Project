@@ -1,0 +1,6 @@
+Account
+INSERT INTO `customer`(`Customer_ID`, `name`, `address`, `Phone_Number`, `email`, `Date_of_birth`, `age`) VALUES (2020,'Alex','H:20,R:5','01777777777','alex@gmail.com','9/12/2001','21');
+INSERT INTO `customer`(`Customer_ID`, `name`, `address`, `Phone_Number`, `email`, `Date_of_birth`, `age`) VALUES (2021,'Bob','H:21,R:6','0188888888','Bob@gmail.com','10/12/2000','22');
+INSERT INTO `customer`(`Customer_ID`, `name`, `address`, `Phone_Number`, `email`, `Date_of_birth`, `age`) VALUES (2022,'John','H:22,R:7','019999999','john@gmail.com','2/1/2000','22');
+INSERT INTO `customer`(`Customer_ID`, `name`, `address`, `Phone_Number`, `email`, `Date_of_birth`, `age`) VALUES (2023,'Doe','H:23,R:8','0100000000','Doe@gmail.com','3/12/1999','23');
+INSERT INTO `customer`(`Customer_ID`, `name`, `address`, `Phone_Number`, `email`, `Date_of_birth`, `age`) VALUES (2024,'Marino','H:24,R:9','01222222222','Marino@gmail.com','8/9/2002','20');
